@@ -1,8 +1,5 @@
 # fictional-umbrella
-Just another hello world repo
 
-first file to my name
+first repository
 
-another edit
-
-4rd edit
+old repository
